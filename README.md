@@ -4,7 +4,6 @@
 - 💞️ I'm looking for a partner to develop with
 - 📫 How to reach me Email: ice_moss@163.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iceymoss)](https://github.com/iceymoss/github-readme-stats)
 
 ![iceymoss GitHub stats](https://github-readme-stats.vercel.app/api?username=iceymoss&show_icons=true&theme=tokyonight)
 
