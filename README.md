@@ -16,13 +16,20 @@
 * 了解项目的前后端部署流程，有一套完整的部署流程。
 
 #### 我的技能
-* 开发语言：Golang/Python
-* 开发框架：Grpc/Gin/Beego/Django
-* 前端开发：JS/HTML5/CSS
-* 数据库相关：MySQL/MongoDB/Redis
-* 开发工具：Git/Linux/Docker
-* 消息队列：RocketMQ/RabbitMQ
-* 网络协议：TCP/IP/HTTP/Websocket
+* 熟练掌握Golang基础、熟悉Slice、Map、Goroutine、Channel的底层结构和使用。
+* 了解Golang的垃圾回收机制和协程调度原理及GMP设计模型。
+* 熟悉使用MySQL、了解MySQL索引、事务、隔离级别、存储引擎、性能分析、联合索引、锁机制。
+* 熟悉 Redis 数据类型使用场景，了解持久化，主从复制、哨兵模式，了解缓存高并发场景，如缓存穿透、缓存击穿、缓存雪崩。
+* 熟练使用微服务框架Grpc、Grpc-gateway和、Web框架Gin、Beego等。
+* 熟悉常用的数据结构与算法，如数组、链表、栈、队列、堆、树等。
+* 理解操作系统中进程、线程、死锁、虚拟化、文件系统等原理。
+* 掌握 Linux 常用命令，如netstat、 grep、top、chmod、find 等。
+* 熟悉使用Docker、镜像构建DockerFile、Docker-Compose，了解Docker存储持久化、网络结构、容器编排Swarm。
+* 了解 OSI七层模型和 TCP/IP 四层体系分层结构，掌握常见网络协议，如HTTP/HTTPS、TCP、UDP、DNS 等。
+* 了解注册中心Nacos、服务中心Consul、Web服务器Nginx、NoSQL型数据库MongoDB 的使用。
+* 了解消息队列中间件rocketMQ、rabbitMQ的使用和消息模式。
+* 了解 HTML、CSS、JavaScript等前端开发技术。
+* 熟悉版本控制工具Git和文档编写工具Markdown。
 
 <!---
 iceymoss/iceymoss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
