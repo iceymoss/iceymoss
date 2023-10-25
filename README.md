@@ -31,8 +31,6 @@
 * 了解 HTML、CSS、JavaScript等前端开发技术。
 * 熟悉版本控制工具Git和文档编写工具Markdown。
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-
 <!---
 iceymoss/iceymoss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
