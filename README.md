@@ -1,12 +1,14 @@
 
+## 欢迎来到我的GitHub主页！
+
 ![iceymoss GitHub stats](https://github-readme-stats.vercel.app/api?username=iceymoss&show_icons=true&theme=tokyonight)
 
-### 欢迎来到我的GitHub主页！
+![My Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iceymoss&layout=compact&hide_border=true&langs_count=6&hide=html,css,CMake,Makefile,Blade,JavaScript,Less,C,SCSS,Dockerfile,shell)
 
 - 👋 Hi, I’m @iceymoss
 - 📫 How to reach me Email: ice_moss@163.com
 
-#### 自我介绍
+## 自我介绍
 * 有坚持写作的习惯，例如学习Grpc框架后，会将其总结产出。
 * 有良好的代码编写习惯和沟通协作能力，例如在大学团队中能高效积极的参与团队讨论。
 * 理解操作系统中进程、线程、死锁、虚拟化、文件系统等原理。
@@ -15,7 +17,7 @@
 * 有分布式系统开发经验，对微服务有一定了解，有较强的学习能力，例如学习Gin框架能快速理解和应用。
 * 了解项目的前后端部署流程，有一套完整的部署流程。
 
-#### 我的技能
+## 我的技能
 * 熟练掌握Golang基础、熟悉Slice、Map、Goroutine、Channel的底层结构和使用。
 * 了解Golang的垃圾回收机制和协程调度原理及GMP设计模型。
 * 熟悉使用MySQL、了解MySQL索引、事务、隔离级别、存储引擎、性能分析、联合索引、锁机制。
