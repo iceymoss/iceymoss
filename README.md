@@ -3,7 +3,7 @@
 
 ![iceymoss GitHub stats](https://github-readme-stats.vercel.app/api?username=iceymoss&show_icons=true&theme=tokyonight)
 
-![My Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iceymoss&layout=compact&hide_border=true&langs_count=6&hide=html,css,CMake,Makefile,Blade,JavaScript,Less,C,SCSS,Dockerfile,shell)
+![My Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iceymoss&layout=compact&hide_border=true&langs_count=6&hide=html,css,CMake,Makefile,Blade,JavaScript,TypeScript,Less,C,SCSS,Dockerfile,shell)
 
 - 👋 Hi, I’m @iceymoss
 - 📫 How to reach me Email: ice_moss@163.com
