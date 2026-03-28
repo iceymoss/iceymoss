@@ -1,17 +1,38 @@
-## Hi, I'm @iceymoss 👋
+<h1 align='center'>
+  Hi there 👋 I'm iceymoss 🚀
+</h1>
+
+<p align='center'>
+  I'm a Backend Developer from China. I love contributing to open-source and spinning up servers to deploy cool stuff 🚀 <br>
+  When I'm not at my keyboard, I'm usually out shooting photos with my Fuji XT5 📸
+</p>
+
+<p align='center'>
+  📫 How to talk to me: <a href='mailto:ice_moss@163.com'>ice_moss@163.com</a>
+</p>
 
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=iceymoss&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=iceymoss&show_icons=true&theme=default&hide_border=true" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceymoss&layout=compact&hide_border=true&langs_count=6&theme=default&hide=html,css,shell,c,CMake,Makefile,JavaScript,java" />
 </div>
 
----
+<br />
 
-### Professional Summary
+<h5 align="center">💻 My typical stack</h5>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,rust,php,mysql,redis,mongodb,kafka,elasticsearch,docker,kubernetes" />
+  </a>
+</p>
 
-An engineer with 2 years of backend development experience, possessing a background in **Go + PHP** hybrid technology stack development, currently focusing on **Rust** high-performance components and **Cloud Native** infrastructure construction.
+<h5 align="center">🛠️ I also use these things...</h5>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,linux,ubuntu,nginx,git,bash" />
+  </a>
+</p>
 
-📫 **Email**: ice_moss@163.com
-
----
-
+<h5 align="center">⚡ Deep Dives & Current Explorations</h5>
+<p align="center">
+  <code>GitOps</code> • <code>InfluxDB</code> • <code>RisingWave</code> • <code>Iceberg</code> • <code>CockroachDB</code> • <code>Web3</code> • <code>AI Coding Agents</code>
+</p>
