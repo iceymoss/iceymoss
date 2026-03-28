@@ -4,7 +4,7 @@
 
 <p align='center'>
   I'm a Backend Developer from China. I love contributing to open-source and spinning up servers to deploy cool stuff 🚀 <br>
-  When I'm not at my keyboard, I'm usually out shooting photos with my Fuji XT5 📸
+  When I'm not at my keyboard, I'm usually out shooting photos with my Fuji 📸
 </p>
 
 <p align='center'>
