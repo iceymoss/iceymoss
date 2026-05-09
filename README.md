@@ -8,7 +8,7 @@
 </p>
 
 <p align='center'>
-  📫 How to talk to me: <a href='mailto:ice_moss@163.com'>ice_moss@163.com</a>
+  📫 How to talk to me: <a href='mailto:ice_moss@163.com'>ice_moss@163.com</a> or <a href='mailto:iceykmoss@gmail.com'>iceykmoss@gmail.com</a>
 </p>
 
 <div align="center">
