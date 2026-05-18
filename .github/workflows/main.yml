@@ -1,0 +1,33 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule: 
+    # 每天 UTC 时间 18:00 自动运行（对应北京时间凌晨 2:00）
+    - cron: "0 18 * * *"
+  workflow_dispatch: # 开启手动触发按钮
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      # 1. 检出你的代码仓库
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      # 2. 调用 3D 渲染生成器
+      - name: Generate 3D Contributions
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          
+      # 3. 将生成的图片提交并推送到你的仓库
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          # 如果图片没有变化，忽略提交报错，保证 Action 绿灯通过
+          git commit -m "Auto-generated 3D GitHub Profile" || echo "No changes to commit"
+          git push
