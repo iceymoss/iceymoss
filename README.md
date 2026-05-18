@@ -36,3 +36,8 @@
 <p align="center">
   <code>GitOps</code> • <code>InfluxDB</code> • <code>RisingWave</code> • <code>Iceberg</code> • <code>CockroachDB</code> • <code>Web3</code> • <code>AI Coding Agents</code>
 </p>
+
+<div align="center">
+  <h3> Isometric Contributions</h3>
+  <img src="./profile-3d-contrib/profile-green.svg" width="100%" alt="GitHub Isometric Contributions">
+</div>
