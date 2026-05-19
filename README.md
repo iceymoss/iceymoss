@@ -11,11 +11,6 @@
   📫 How to talk to me: <a href='mailto:ice_moss@163.com'>ice_moss@163.com</a> or <a href='mailto:iceykmoss@gmail.com'>iceykmoss@gmail.com</a>
 </p>
 
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=iceymoss&show_icons=true&theme=default&hide_border=true" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceymoss&layout=compact&hide_border=true&langs_count=6&theme=default&hide=html,css,shell,c,CMake,Makefile,JavaScript,java" />
-</div>
-
 <br />
 
 <h5 align="center">💻 My typical stack</h5>
